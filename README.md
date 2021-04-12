@@ -1,4 +1,4 @@
-# nuxt_Universal01
+# Final_On_boarding_ex_Nuxt.js 
 
 ## Build Setup
 
